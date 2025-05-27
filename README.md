@@ -1,5 +1,8 @@
 # IntelliStep – A Smart Stick for the Blind
 
+## Demo
+Watch the demo on YouTube: [https://youtu.be/TimTm1kJ488](https://youtu.be/TimTm1kJ488)
+
 ## Overview
 
 **IntelliStep** is an advanced assistive smart stick built to improve mobility and independence for visually impaired individuals. By combining a range of sensors with smart processing units, the system offers real-time audio feedback to guide users safely through their surroundings.
